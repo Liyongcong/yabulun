@@ -1,0 +1,12 @@
+platform :ios, ‘8.0’
+target 'MGBEB' do
+pod 'AFNetworking'
+pod 'SVProgressHUD'
+pod 'YYModel'
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'SDAutoLayout'
+pod 'XYQPlayer', '~> 1.1.2'
+pod 'MBProgressHUD'
+pod 'MWPhotoBrowser'
+end
