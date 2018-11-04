@@ -1,1 +1,0 @@
-../../../XYQPlayer/XYQPlayer/XYQMovieTool.h
